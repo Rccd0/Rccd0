@@ -10,14 +10,7 @@
 [![Repos](https://badges.pufler.dev/repos/Rccd0)](https://github.com/Rccd0)
 [![Profile views](https://komarev.com/ghpvc/?username=Rccd0)](https://github.com/Rccd0)
 
-<!--
-Here is a list of my ongoing [research work and projects](...).
-
-Researching and building the next-generation of computing and technology in finance and AI. My passion is working with data to build systems, solve complex challenges, and to better understand how the world operates and changes through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important skills to me are:
-
-- Resilience
-- Collaboration
-- Creativity
+Here is a list of my ongoing [projects](...).
 
 </td>
 <td width="50%">  
