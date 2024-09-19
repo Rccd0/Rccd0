@@ -10,11 +10,11 @@
 [![Repos](https://badges.pufler.dev/repos/Rccd0)](https://github.com/Rccd0)
 [![Profile views](https://komarev.com/ghpvc/?username=Rccd0)](https://github.com/Rccd0)
 
-[Resume](...)
+- [Resume](...)
 
-[Gists](https://gist.github.com/Rccd0)
+- [Gists](https://gist.github.com/Rccd0)
 
-Here is a list of my ongoing [projects](...).
+#### projects
 
 ---
 
