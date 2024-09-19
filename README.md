@@ -1,18 +1,12 @@
 ### Hi there, I'm Riccardo!
 
-[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=%20&color=green&logo=&style=flat)](https://redqctober.com)
+[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=%20&color=black&logo=&style=flat)](https://redqctober.com)
 [![rf2780@nyu.edu](https://img.shields.io/static/v1?label=rf2780@nyu.edu&message=%20&color=red&style=flat)](mailto:rf2780@nyu.edu)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=linkedin&style=flat)](https://www.linkedin.com/in/riccardo-ferrarese/)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=blue&logo=kaggle&style=flat)](https://www.kaggle.com/riccardof01)
 [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat)](https://leetcode.com/u/rf2780/)
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat)](https://quantnet.com/members/riccardo_f.50877/)
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=yellow&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
-
-[![Flat](https://img.shields.io/badge/Style-Flat-blue?style=flat)](https://shields.io)
-[![Flat-Square](https://img.shields.io/badge/Style-Flat--Square-blue?style=flat-square)](https://shields.io)
-[![For-The-Badge](https://img.shields.io/badge/Style-For--The--Badge-blue?style=for-the-badge)](https://shields.io)
-[![Plastic](https://img.shields.io/badge/Style-Plastic-blue?style=plastic)](https://shields.io)
-[![Social](https://img.shields.io/badge/Style-Social-blue?style=social)](https://shields.io)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors)
