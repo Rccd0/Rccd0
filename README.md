@@ -10,19 +10,11 @@
 [![Repos](https://badges.pufler.dev/repos/Rccd0)](https://github.com/Rccd0)
 [![Profile views](https://komarev.com/ghpvc/?username=Rccd0)](https://github.com/Rccd0)
 
-Here is a list of my ongoing [projects](...).
-
-</td>
-<td width="50%">  
-- Jan 09 - [Quant Letter: January 2024, Week-2]()
-- Jan 03 - [Quant Letter: January 2024, Week-1]()
-</td>
-
--->
-
 [Resume](...)
 
 [Gists](https://gist.github.com/Rccd0)
+
+Here is a list of my ongoing [projects](...).
 
 ---
 
