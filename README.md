@@ -39,12 +39,6 @@
   </tr>
 </table>
 
-<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
-<br />
-
-
-
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -94,12 +88,5 @@ Researching and building the next-generation of computing and technology in fina
 - Creativity
 
 Also check out my [Gists](https://gist.github.com/Rccd0)! 
-
--->
----
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
 
 ![Riccardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default)
