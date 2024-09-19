@@ -26,12 +26,14 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" width="400">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0&layout=compact" alt="Top Languages" width="400">
 
+  <img src="https://your-image-url.com" alt="Additional Image" width="400">
+  
 </div>
 
 ---
