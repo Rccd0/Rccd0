@@ -9,6 +9,19 @@
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=yellow&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
 [![Repos Badge](https://badges.pufler.dev/repos/Rccd0)](https://badges.pufler.dev)
 
+<!--
+Here is a list of my ongoing [research work and projects](...).
+
+Researching and building the next-generation of computing and technology in finance and AI. My passion is working with data to build systems, solve complex challenges, and to better understand how the world operates and changes through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important skills to me are:
+
+- Resilience
+- Collaboration
+- Creativity
+-->
+
+[Resume](...)
+Also check out my [Gists](https://gist.github.com/Rccd0)! 
+
 [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues)
 
@@ -22,8 +35,6 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-[Resume](...)
 
 <table width="100%">
 <tr>
@@ -44,15 +55,3 @@
 - Jan 03 - [Quant Letter: January 2024, Week-1]()
 </td>
 </table>
-
-<!--
-Here is a list of my ongoing [research work and projects](...).
-
-Researching and building the next-generation of computing and technology in finance and AI. My passion is working with data to build systems, solve complex challenges, and to better understand how the world operates and changes through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important skills to me are:
-
-- Resilience
-- Collaboration
-- Creativity
--->
-
-Also check out my [Gists](https://gist.github.com/Rccd0)! 
