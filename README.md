@@ -7,8 +7,8 @@
 [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat)](https://leetcode.com/u/rf2780/)
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat)](https://quantnet.com/members/riccardo_f.50877/)
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=yellow&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
-[![Repos](https://badges.pufler.dev/repos/Rccd0)](https://badges.pufler.dev)
-[![Profile views](https://views.whatilearened.today/views/github/Rccd0/creative-profile-readme.svg)](https://github.com/Rccd0/creative-profile-readme)
+[![Repos](https://badges.pufler.dev/repos/Rccd0)]
+[![Profile views](https://komarev.com/ghpvc/?username=Rccd0)]
 
 <!--
 Here is a list of my ongoing [research work and projects](...).
