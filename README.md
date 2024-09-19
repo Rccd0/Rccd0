@@ -44,6 +44,26 @@
 <br />
 
 
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
+
+  </td>
+  <td width="50%">  
+ 
+<!-- feed start -->
+- Jan 09 - [Quant Letter: January 2024, Week-2](https://blog.ml-quant.com/p/quant-letter-january-2024-week-2)
+- Jan 03 - [Quant Letter: January 2024, Week-1](https://blog.ml-quant.com/p/quant-letter-january-2024-week-1)
+- Dec 20 - [Quant Letter: December 2023, Week-3](https://blog.ml-quant.com/p/quant-letter-december-2023-week-3)
+<!-- feed end -->
+
+  </td>
+  </table>
+
+
 ### Languages and Tools:
 
 
