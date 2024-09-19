@@ -35,8 +35,8 @@
 
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/Rccd0/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats"  /></td>
-    <td><img src="https://raw.githubusercontent.com/Rccd0/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default" alt="GitHub stats"  /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0" alt="Languages used" /></td>
   </tr>
 </table>
 
@@ -71,3 +71,4 @@ Researching and building the next-generation of computing and technology in fina
 Also check out my [Gists](https://gist.github.com/Rccd0)! 
 
 ![Riccardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default)
+
