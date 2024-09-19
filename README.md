@@ -8,6 +8,12 @@
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat-square)](https://quantnet.com/members/riccardo_f.50877/)
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=blue&style=flat-square)](https://quant.stackexchange.com/users/76194/redqctober)
 
+[![Flat](https://img.shields.io/badge/Style-Flat-blue?style=flat)](https://shields.io)
+[![Flat-Square](https://img.shields.io/badge/Style-Flat--Square-blue?style=flat-square)](https://shields.io)
+[![For-The-Badge](https://img.shields.io/badge/Style-For--The--Badge-blue?style=for-the-badge)](https://shields.io)
+[![Plastic](https://img.shields.io/badge/Style-Plastic-blue?style=plastic)](https://shields.io)
+[![Social](https://img.shields.io/badge/Style-Social-blue?style=social)](https://shields.io)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues)
