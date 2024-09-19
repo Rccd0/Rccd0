@@ -27,7 +27,6 @@ Researching and building the next-generation of computing and technology in fina
 Also check out my [Gists](https://gist.github.com/Rccd0)!
 
 ---
-### My GitHub Stats
 
 <table align="center" width="100%">
   <tr>
@@ -39,17 +38,9 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
     </td>
   </tr>
 </table>
+
 ---
 
-<table width="100%">
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default" alt="GitHub stats"  
-</td>
-<td width="50%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0" alt="Languages used" 
-</td>
-</table>
 <table width="100%"> 
 <tr>
 <td width="50%">
