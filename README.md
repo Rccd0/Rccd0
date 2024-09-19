@@ -26,7 +26,7 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 
 ---
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" width="400">
   
