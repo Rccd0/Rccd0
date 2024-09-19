@@ -31,12 +31,12 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-[Resume](...) | [Website](...)
+[Resume](...)
 
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
-    <td><img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+    <td> <img src="https://raw.githubusercontent.com/Rccd0/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats"  /></td>
+    <td><img src="https://raw.githubusercontent.com/Rccd0/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
   </tr>
 </table>
 
@@ -58,26 +58,6 @@
   </td>
   </table>
 
-
-### Languages and Tools:
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
 <!--
 Here is a list of my ongoing [research work and projects](...).
 
@@ -86,6 +66,7 @@ Researching and building the next-generation of computing and technology in fina
 - Resilience
 - Collaboration
 - Creativity
+-->
 
 Also check out my [Gists](https://gist.github.com/Rccd0)! 
 
