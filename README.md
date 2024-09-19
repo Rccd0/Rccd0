@@ -34,30 +34,24 @@
 [Resume](...)
 
 <table width="100%">
-  <tr>
-  <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default" alt="GitHub stats"  
-  </td>
-  <td width="50%">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0" alt="Languages used" 
-  </td>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default" alt="GitHub stats"  
+</td>
+<td width="50%">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0" alt="Languages used" 
+</td>
 </table>
-
 <table width="100%"> 
-  <tr>
-  <td width="50%">
-      
+<tr>
+<td width="50%">
 &nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
-
-  </td>
-  <td width="50%">  
-
+</td>
+<td width="50%">  
 - Jan 09 - [Quant Letter: January 2024, Week-2]()
 - Jan 03 - [Quant Letter: January 2024, Week-1]()
-- Dec 20 - [Quant Letter: December 2023, Week-3]()
-
-  </td>
-  </table>
+</td>
+</table>
 
 <!--
 Here is a list of my ongoing [research work and projects](...).
