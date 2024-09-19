@@ -1,6 +1,6 @@
 ### Hi there, I'm Riccardo!
 
-[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=redqctober.com&color=yellow&style=for-the-badge)](https://redqctober.com)
+[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=redqctober.com&color=yellow&style=flat-square)](https://redqctober.com)
 [![rf2780@nyu.edu](https://img.shields.io/static/v1?label=Email&message=rf2780@nyu.edu&color=red&style=flat-square)](mailto:rf2780@nyu.edu)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/riccardo-ferrarese/)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=blue&logo=kaggle&style=flat-square)](https://www.kaggle.com/riccardof01)
