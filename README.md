@@ -44,14 +44,3 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 </div>
 
 ---
-
-<table width="100%"> 
-  <tr>
-  <td width="100%">
-      
-&nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
-
-  </td>
-  </table>
-
-
