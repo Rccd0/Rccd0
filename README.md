@@ -1,14 +1,12 @@
 ### Hi there, I'm Riccardo!
 
-[![Website](https://img.shields.io/static/v1?label=Website&message=redqctober.com&color=yellow&style=flat-square)](https://redqctober.com)
-[![Email](https://img.shields.io/static/v1?label=Email&message=rf2780@nyu.edu&color=red&style=flat-square)](mailto:rf2780@nyu.edu)
+[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=redqctober.com&color=yellow&style=flat-square)](https://redqctober.com)
+[![rf2780@nyu.edu](https://img.shields.io/static/v1?label=Email&message=rf2780@nyu.edu&color=red&style=flat-square)](mailto:rf2780@nyu.edu)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/riccardo-ferrarese/)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=blue&logo=kaggle&style=flat-square)](https://www.kaggle.com/riccardof01)
 [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat-square)](https://leetcode.com/u/rf2780/)
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat-square)](https://quantnet.com/members/riccardo_f.50877/)
 [![Quant StackExchange](https://img.shields.io/static/v1?label=Quant.StackExchange&message=%20&color=blue&style=flat-square)](https://quant.stackexchange.com/users/76194/redqctober)
-
-
 
 <!--
 [![redqctober](https://img.shields.io/static/v1?label=redqctober&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://redqctober.com)
