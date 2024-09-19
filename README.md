@@ -33,6 +33,6 @@ Researching and building the next-generation of computing and technology in fina
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0&layout=compact" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0&layout=compact" alt="Top Languages">
 
 ---
