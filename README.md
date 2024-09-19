@@ -26,8 +26,6 @@ Researching and building the next-generation of computing and technology in fina
 
 Also check out my [Gists](https://gist.github.com/Rccd0)!
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-
 <table width="100%">
 <tr>
 <td width="50%">
