@@ -9,8 +9,6 @@
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=yellow&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
 [![Repos Badge](https://badges.pufler.dev/repos/Rccd0)](https://badges.pufler.dev)
 [![HitCount](https://views.whatilearened.today/views/github/Rccd0/creative-profile-readme.svg)](https://github.com/Rccd0/creative-profile-readme)
-[![GitHub Stars](https://img.shields.io/github/stars/Rccd0/awesome-github-profile-readme)](https://github.com/Rccd0/awesome-github-profile-readme/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Rccd0/awesome-github-profile-readme)](https://github.com/Rccd0/awesome-github-profile-readme/network/members)
 
 <!--
 Here is a list of my ongoing [research work and projects](...).
@@ -44,7 +42,8 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 <table width="100%"> 
 <tr>
 <td width="50%">
-&nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
+
+  &nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
 </td>
 <td width="50%">  
 - Jan 09 - [Quant Letter: January 2024, Week-2]()
