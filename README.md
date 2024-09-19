@@ -1,7 +1,7 @@
 ### Hi there, I'm Riccardo!
 
 [![redqctober](https://img.shields.io/static/v1?label=redqctober&message=%20&color=white&logo=&style=flat)](https://redqctober.com)
-[![rf2780@nyu.edu](https://img.shields.io/static/v1?label=Email&message=rf2780@nyu.edu&color=red&style=flat)](mailto:rf2780@nyu.edu)
+[![rf2780@nyu.edu](https://img.shields.io/static/v1?label=rf2780@nyu.edu&message=%20&color=red&style=flat)](mailto:rf2780@nyu.edu)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=linkedin&style=flat)](https://www.linkedin.com/in/riccardo-ferrarese/)
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=blue&logo=kaggle&style=flat)](https://www.kaggle.com/riccardof01)
 [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat)](https://leetcode.com/u/rf2780/)
