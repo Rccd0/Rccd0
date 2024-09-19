@@ -5,6 +5,8 @@
 [![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=1ca0f1&logo=Kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/riccardof01)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0e76a8&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/riccardo-ferrarese)
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=1ca0f1&logo=QuantNet&style=flat-square&logoColor=white)](https://quantnet.com/members/riccardo_f.50877/)
+[![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=1ca0f1&logo=LeetCode&style=flat-square&logoColor=white)](https://leetcode.com/u/rf2780/)
+
 
 [Resume](...) | [Website](...)
 
