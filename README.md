@@ -47,7 +47,8 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 
 <div align="center" style="width: 100%;">
   <a href="https://open.spotify.com/user/1280520793">
-    <img src="https://novatorem-nu-seven.vercel.app/api/spotify" alt="Spotify" style="width: 100%;">
+    <img src="https://novatorem-nu-seven.vercel.app/api/spotify" alt="Spotify" style="width: 400px; height: 100px;">
   </a>
 </div>
+
 
