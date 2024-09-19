@@ -8,6 +8,7 @@
 
 [Resume](...) | [Website](...)
 
+<!--
 Here is a list of my ongoing [research work and projects](...).
 
 Researching and building the next-generation of computing and technology in finance and AI. My passion is working with data to build systems, solve complex challenges, and to better understand how the world operates and changes through emerging technologies including AI, machine learning/data science, blockchain/DeFi, and quantum computing. The three most important skills to me are:
@@ -17,5 +18,7 @@ Researching and building the next-generation of computing and technology in fina
 - Creativity
 
 Also check out my [Gists](https://gist.github.com/Rccd0)! 
+
+-->
 
 ![Riccardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default)
