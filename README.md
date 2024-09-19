@@ -33,11 +33,14 @@
 
 [Resume](...)
 
-<table align="left" cellspacing="0" cellpadding="0" width="100%">
+<table width="100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default" alt="GitHub stats"  /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0" alt="Languages used" /></td>
-  </tr>
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default" alt="GitHub stats"  
+  </td>
+  <td width="50%">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rccd0" alt="Languages used" 
+  </td>
 </table>
 
 <table width="100%"> 
@@ -48,12 +51,10 @@
 
   </td>
   <td width="50%">  
- 
-<!-- feed start -->
+
 - Jan 09 - [Quant Letter: January 2024, Week-2]()
 - Jan 03 - [Quant Letter: January 2024, Week-1]()
 - Dec 20 - [Quant Letter: December 2023, Week-3]()
-<!-- feed end -->
 
   </td>
   </table>
@@ -69,6 +70,3 @@ Researching and building the next-generation of computing and technology in fina
 -->
 
 Also check out my [Gists](https://gist.github.com/Rccd0)! 
-
-![Riccardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rccd0&count_private=true&show_icones=true&theme=default)
-
