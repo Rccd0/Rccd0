@@ -46,6 +46,7 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 ---
 
 <table width="100%">
-<td width="100%">
+<td>
   &nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
+<\td>
 </table>
