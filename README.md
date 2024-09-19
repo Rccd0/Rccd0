@@ -49,9 +49,9 @@
   <td width="50%">  
  
 <!-- feed start -->
-- Jan 09 - [Quant Letter: January 2024, Week-2](https://blog.ml-quant.com/p/quant-letter-january-2024-week-2)
-- Jan 03 - [Quant Letter: January 2024, Week-1](https://blog.ml-quant.com/p/quant-letter-january-2024-week-1)
-- Dec 20 - [Quant Letter: December 2023, Week-3](https://blog.ml-quant.com/p/quant-letter-december-2023-week-3)
+- Jan 09 - [Quant Letter: January 2024, Week-2]()
+- Jan 03 - [Quant Letter: January 2024, Week-1]()
+- Dec 20 - [Quant Letter: December 2023, Week-3]()
 <!-- feed end -->
 
   </td>
@@ -59,7 +59,6 @@
 
 
 ### Languages and Tools:
-
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
