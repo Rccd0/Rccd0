@@ -18,6 +18,13 @@ Researching and building the next-generation of computing and technology in fina
 - Resilience
 - Collaboration
 - Creativity
+
+</td>
+<td width="50%">  
+- Jan 09 - [Quant Letter: January 2024, Week-2]()
+- Jan 03 - [Quant Letter: January 2024, Week-1]()
+</td>
+
 -->
 
 [Resume](...)
@@ -38,14 +45,7 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 
 ---
 
-<table width="100%"> 
-<tr>
-<td width="50%">
-
+<table width="100%">
+<td width="100%">
   &nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
-</td>
-<td width="50%">  
-- Jan 09 - [Quant Letter: January 2024, Week-2]()
-- Jan 03 - [Quant Letter: January 2024, Week-1]()
-</td>
 </table>
