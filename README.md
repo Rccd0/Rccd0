@@ -1,12 +1,12 @@
 ### Hi there, I'm Riccardo!
 
-[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=redqctober.com&color=yellow&style=flat-square)](https://redqctober.com)
-[![rf2780@nyu.edu](https://img.shields.io/static/v1?label=Email&message=rf2780@nyu.edu&color=red&style=flat-square)](mailto:rf2780@nyu.edu)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/riccardo-ferrarese/)
-[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=blue&logo=kaggle&style=flat-square)](https://www.kaggle.com/riccardof01)
-[![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat-square)](https://leetcode.com/u/rf2780/)
-[![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat-square)](https://quantnet.com/members/riccardo_f.50877/)
-[![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=blue&style=flat-square)](https://quant.stackexchange.com/users/76194/redqctober)
+[![redqctober](https://img.shields.io/static/v1?label=redqctober&message=redqctober.com&color=yellow&style=flat)](https://redqctober.com)
+[![rf2780@nyu.edu](https://img.shields.io/static/v1?label=Email&message=rf2780@nyu.edu&color=red&style=flat)](mailto:rf2780@nyu.edu)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=linkedin&style=flat)](https://www.linkedin.com/in/riccardo-ferrarese/)
+[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=%20&color=blue&logo=kaggle&style=flat)](https://www.kaggle.com/riccardof01)
+[![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat)](https://leetcode.com/u/rf2780/)
+[![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat)](https://quantnet.com/members/riccardo_f.50877/)
+[![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=blue&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
 
 [![Flat](https://img.shields.io/badge/Style-Flat-blue?style=flat)](https://shields.io)
 [![Flat-Square](https://img.shields.io/badge/Style-Flat--Square-blue?style=flat-square)](https://shields.io)
