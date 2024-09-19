@@ -7,6 +7,7 @@
 [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=%20&color=orange&logo=leetcode&style=flat)](https://leetcode.com/u/rf2780/)
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat)](https://quantnet.com/members/riccardo_f.50877/)
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=yellow&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
+[![Repos Badge](https://badges.pufler.dev/repos/Rccd0)](https://badges.pufler.dev)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors)
@@ -14,8 +15,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls)
 [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme)
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
-
-[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
