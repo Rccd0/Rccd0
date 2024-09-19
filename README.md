@@ -8,6 +8,8 @@
 [![QuantNet](https://img.shields.io/static/v1?label=QuantNet&message=%20&color=blue&style=flat)](https://quantnet.com/members/riccardo_f.50877/)
 [![quant.stackexchange](https://img.shields.io/static/v1?label=quant.stackexchange&message=%20&color=yellow&style=flat)](https://quant.stackexchange.com/users/76194/redqctober)
 [![Repos Badge](https://badges.pufler.dev/repos/Rccd0)](https://badges.pufler.dev)
+<a href="https://github.com/Rccd0/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Rccd0/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Rccd0/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Rccd0/awesome-github-profile-readme" alt="Forks Badge"/></a>
 
 <!--
 Here is a list of my ongoing [research work and projects](...).
@@ -28,13 +30,7 @@ Also check out my [Gists](https://gist.github.com/Rccd0)!
 [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme)
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
 
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <table width="100%">
 <tr>
