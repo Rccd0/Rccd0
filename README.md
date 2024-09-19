@@ -16,6 +16,18 @@
 
 [Resume](...) | [Website](...)
 
+<table align="left" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
+    <td><img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+  </tr>
+</table>
+
+<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+
 ### Languages and Tools:
 
 
