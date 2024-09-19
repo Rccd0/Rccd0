@@ -10,11 +10,16 @@
 [![Repos](https://badges.pufler.dev/repos/Rccd0)](https://github.com/Rccd0)
 [![Profile views](https://komarev.com/ghpvc/?username=Rccd0)](https://github.com/Rccd0)
 
+"..."
+
 - [Resume](...)
 
 - [Gists](https://gist.github.com/Rccd0)
 
 #### projects
+1. ##### project 1
+2. ##### project 2
+3. ##### project 3
 
 ---
 
