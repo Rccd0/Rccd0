@@ -16,21 +16,7 @@
 
 - [Gists](https://gist.github.com/Rccd0)
 
-### projects
-
-Here is a list of my ongoing projects:
-
-1. **project 1**
-   - -.
-   - [Repository Link](...)
-
-2. **project 2**
-   - -.
-   - [Repository Link](...)
-
-3. **project 3**
-   - -.
-   - [Repository Link](...)
+Here is a list of my ongoing [projects](...).
 
 ---
 
