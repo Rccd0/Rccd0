@@ -17,9 +17,10 @@
 - [Gists](https://gist.github.com/Rccd0)
 
 #### projects
-1. ##### project 1
-2. ##### project 2
-3. ##### project 3
+
+- project 1
+- project 2
+- project 3
 
 ---
 
